@@ -50,17 +50,17 @@ Crear un **chatbot con memoria contextual** que utiliza **LangChain** para el pr
 
 ### 🧪 Ejemplo de Conversación
 
-![Demo del Chatbot](assets/chat_demo.png)
+![Demo del Chatbot](assets/chat_demo.PNG)
 
-![Demo del Chatbot2](assets/chat_demo2.png)
+![Demo del Chatbot2](assets/chat_demo2.PNG)
 
-![Demo del Chatbot3](assets/chat_demo3.png)
+![Demo del Chatbot3](assets/chat_demo3.PNG)
 
-![Demo del Chatbot4](assets/chat_demo4.png)
+![Demo del Chatbot4](assets/chat_demo4.PNG)
 
-![Demo del Chatbot5](assets/chat_demo5.png)
+![Demo del Chatbot5](assets/chat_demo5.PNG)
 
-![Demo del Chatbot6](assets/chat_demo6.png)
+![Demo del Chatbot6](assets/chat_demo6.PNG)
 
 ---
 
